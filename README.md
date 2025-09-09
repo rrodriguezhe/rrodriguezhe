@@ -21,7 +21,7 @@ Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Na
   - React js
 - 👯 Estoy interesado en colaborar en proyectos donde pueda crecer y aportar.   
 - Fuera de la tecnología, ⚽ disfruto jugar fútbol , 🎵 escuchar música y 🎮 jugar videojuegos.  
-- 📫 Puedes contactarme en: <a href="rrodriguezhe@unal.edu.co">tu_correo@unal.edu.co</a>
+- 📫 Puedes contactarme en: <a href="rrodriguezhe@unal.edu.co">rrodriguezhe@unal.edu.co</a>
 
 ## Mis habilidades son
 
