@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , soy Raul Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , soy Raúl Rodríguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,7 +6,8 @@
 </a>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
+
 Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Nacional de Colombia**. Soy bueno en **Python** y **análisis de datos**. Me gusta aprender cosas nuevas y formarme de la mejor manera, adquiriendo nuevas habilidades.      
 * **Estoy interesado en desarrollo web, diseño de aplicaciones y creación de videojuegos**
 - 🌱 Estoy aprendiendo ...
