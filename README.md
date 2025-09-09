@@ -14,7 +14,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
 
-Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Nacional de Colombia**. Soy bueno en **Python** y **análisis de datos**. Me gusta aprender cosas nuevas y formarme de la mejor manera, adquiriendo nuevas habilidades.      
+Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Nacional de Colombia**. Manejo **Python**, **JavaScript**, **SQL developer**, **Interactive SQL**, y me gusta el **análisis de datos**. Me gusta aprender cosas nuevas y formarme de la mejor manera, adquiriendo nuevas habilidades.      
 * **Estoy interesado en desarrollo web, diseño de aplicaciones y creación de videojuegos**
 - 🌱 Estoy aprendiendo ...
   - Java
@@ -23,7 +23,7 @@ Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Na
 - Fuera de la tecnología, ⚽ disfruto jugar fútbol , 🎵 escuchar música y 🎮 jugar videojuegos.  
 - 📫 Puedes contactarme en: <a href="rrodriguezhe@unal.edu.co">rrodriguezhe@unal.edu.co</a>
 
-## Mis habilidades son
+## Conocimientos en
 
 <h4> Languages </h4>
 <span> 
