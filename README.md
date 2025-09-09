@@ -36,7 +36,7 @@ Soy estudiante de pregrado en **Ingeniería de Sistemas** en la **Universidad Na
 
 ## Mis redes sociales 
 
-<a hrefs= "https://www.instagram.com/raul__rodriguez11/?hl=es">
+<a href= "https://www.instagram.com/raul__rodriguez11/?hl=es">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <a/>
 
